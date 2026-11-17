@@ -1,0 +1,12 @@
+# Compilación de .NET y SQL Database Projects
+bin/
+obj/
+
+# Secretos: nunca se suben credenciales
+.env
+*.env
+local.settings.json
+*.user
+
+# Configuración local de VS Code
+.vscode/

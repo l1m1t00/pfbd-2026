@@ -112,6 +112,6 @@ pfbd-2026/
 
 <div align="center">
 
-Proyecto académico · Base de Datos · Prof. Ing. Maylin Chérigo · 2026
+Proyecto académico · Base de Datos · 2026
 
 </div>

@@ -2,9 +2,6 @@
 
 # 🛡️ Protección, optimización e implementación de soluciones de base de datos
 
-**Proyecto Final de Base de Datos · Grupo 1M3214**
-Universidad Tecnológica de Panamá · Licenciatura en Ciberseguridad
-
 ![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)

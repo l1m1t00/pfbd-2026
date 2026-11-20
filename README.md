@@ -71,16 +71,18 @@ flowchart LR
 ```text
 pfbd-2026/
 ├── M1-Seguridad/
-│   └── scripts/M1-lab-security-compliance.sql
+│   ├── scripts/M1-lab-security-compliance.sql
+│   └── README.md
 ├── M2-Rendimiento/
-│   └── scripts/M2-lab-query-performance.sql
+│   ├── scripts/M2-lab-query-performance.sql
+│   └── README.md
 ├── M3-CICD/
-│   ├── database-project/AdventureWorksDB/   # Proyecto SQL (SqlAzureV12)
-│   ├── pipelines/build-deploy.yml            # Flujo de GitHub Actions
+│   ├── database-project/AdventureWorksDB/    # Proyecto SQL (SqlAzureV12)
+│   ├── pipelines/build-deploy.yml             # Flujo de GitHub Actions
 │   ├── scripts/M3-verificacion.sql
 │   └── README.md
 ├── M4-Data-API-Builder/
-│   ├── config/dab-config.json                # Configuración de DAB
+│   ├── config/dab-config.json                 # Configuración de DAB
 │   ├── scripts/M4-lab-product-catalog.sql
 │   └── README.md
 └── README.md
